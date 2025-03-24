@@ -1,0 +1,1 @@
+totalPlatyTimeText = oTotalPlayTime.timeText;
